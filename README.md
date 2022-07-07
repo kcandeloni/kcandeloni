@@ -1,4 +1,4 @@
-## Olá, meu nome é Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" >
+## Olá, meu nome é Kevin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=32>
 
 #### Estou no caminho para me tornar um Full Stack Developer e eu gosto de chuva...
 
@@ -18,7 +18,7 @@ Estudo <strong>Javascript</strong>, <strong>CSS</strong> e <strong>HTML</strong>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcandeloni&count_private=true&show_icons=true&theme=dracula" width="380px">
+<img src="https://github-readme-stats.vercel.app/api?username=kcandeloni&count_private=true&show_icons=true&theme=dracula" width=380>
 
 </div>
 
