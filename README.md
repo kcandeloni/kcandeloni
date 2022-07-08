@@ -16,16 +16,27 @@ Estudo <strong>Javascript</strong>, <strong>CSS</strong> e <strong>HTML</strong>
 
 <br>
 
+<details>
+  <summary>:zap: Status</summary>
+  
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kcandeloni&count_private=true&show_icons=true&theme=dracula" width=380>
 
 </div>
 
+</details>
+
 <br>
+
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcandeloni&layout=compact)](https://github.com/kcandeloni/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcandeloni&layout=compact&theme=dracula)](https://github.com/kcandeloni/github-readme-stats)
   
 </div>
+
+</details>
