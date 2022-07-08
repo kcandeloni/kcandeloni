@@ -31,7 +31,7 @@ Estudo <strong>Javascript</strong>, <strong>CSS</strong> e <strong>HTML</strong>
 
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary>:heart_eyes: Linguagens</summary>
 
 <div align="center">
 
