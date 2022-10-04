@@ -2,7 +2,7 @@
 
 #### Estou no caminho para me tornar um Full Stack Developer e eu gosto de chuva...
 
-Estudo <strong>Javascript</strong>, <strong>CSS</strong> e <strong>HTML</strong>. Tenho interesse em <strong>python</strong> e <strong>react</strong>. 
+Tenho interesse em <strong>React</strong> e <strong>Node.js</strong>. 
 
 <br>
 
