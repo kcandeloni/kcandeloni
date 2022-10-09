@@ -4,6 +4,15 @@
 
 Tenho interesse em <strong>React</strong> e <strong>Node.js</strong>. 
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+</div>
+
 <br>
 
 <div align="center">
@@ -21,7 +30,7 @@ Tenho interesse em <strong>React</strong> e <strong>Node.js</strong>.
   
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcandeloni&count_private=true&show_icons=true&theme=dracula" width=380>
+<img src="https://github-readme-stats.vercel.app/api?username=kcandeloni&count_private=true&show_icons=true&&theme=tokyonight" width=380>
 
 </div>
 
@@ -35,8 +44,10 @@ Tenho interesse em <strong>React</strong> e <strong>Node.js</strong>.
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcandeloni&layout=compact&theme=dracula)](https://github.com/kcandeloni/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kcandeloni&layout=compact&theme=tokyonight)](https://github.com/kcandeloni/github-readme-stats)
   
 </div>
+
+![Snake animation](https://github.com/kcandeloni/kcandeloni/output/github-contribution-grid-snake.svg)
 
 </details>
