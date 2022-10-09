@@ -48,6 +48,6 @@ Tenho interesse em <strong>React</strong> e <strong>Node.js</strong>.
   
 </div>
 
-![Snake animation](https://github.com/kcandeloni/kcandeloni/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kcandeloni/kcandeloni/blob/output/github-contribution-grid-snake.svg)
 
 </details>
