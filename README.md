@@ -14,9 +14,10 @@
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-candeloni/)](https://www.linkedin.com/in/kevin-candeloni/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kcandeloni@gmail.com)](mailto:kcandeloni@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/kevincandeloni/)](https://www.instagram.com/kevincandeloni/)
+  <a href="https://www.linkedin.com/in/kevin-candeloni/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kcandeloni@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/kevincandeloni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/kevincandeloni" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 </div>
   
@@ -41,6 +42,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="mongodb logo"  />
+</div>
+
+</details>
+
+<br>
+
+<details open>
+  <summary>⌨️ My Streak</summary>
+
+  <br>
+  
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kcandeloni&theme=tokyonight)](https://git.io/streak-stats)
+  
 </div>
 
 </details>
